@@ -1,5 +1,5 @@
 {
-  "baseUrl": "gamescan.ussl.co.il",
+  "baseUrl": "reshet.ussl.app/gamescan",
   "protocol": "https",
   "hostingWPCOM": false,
   "useACF": true,
